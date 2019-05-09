@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <groupId>org.apache.netbeans.utilities</groupId>
+        <groupId>org.apache.netbeans</groupId>
         <artifactId>utilities-parent</artifactId>
-        <version>1-SNAPSHOT</version>
+        <version>1</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -28,8 +28,8 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:git:https://gitbox.apache.org/repos/asf/incubator-netbeans-mavenutils.git</connection>
-        <developerConnection>scm:git:gitbox.apache.org/repos/asf/incubator-netbeans-mavenutils.git</developerConnection>
-        <url>https://github.com/apache/incubator-netbeans-mavenutils</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/netbeans-webskin.git</connection>
+        <developerConnection>scm:git:gitbox.apache.org/repos/asf/netbeans-webskin.git</developerConnection>
+        <url>https://github.com/apache/netbeans-webskin</url>
     </scm>    
 </project>
