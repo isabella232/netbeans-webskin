@@ -31,5 +31,17 @@
         <connection>scm:git:https://gitbox.apache.org/repos/asf/netbeans-webskin.git</connection>
         <developerConnection>scm:git:gitbox.apache.org/repos/asf/netbeans-webskin.git</developerConnection>
         <url>https://github.com/apache/netbeans-webskin</url>
-    </scm>    
+    </scm>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-site-plugin</artifactId>
+                <version>3.8.2</version>
+                <configuration>
+                    <skip>true</skip>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>
