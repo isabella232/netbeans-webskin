@@ -22,6 +22,8 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title>$title</title>
   <link rel="stylesheet" href="$relativePath/css/netbeans.css" />
+  <link rel="icon" type="image/png" sizes="32x32" href="https://netbeans.apache.org/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://netbeans.apache.org/favicon-16x16.png">
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">   
 </head>
 <body>
